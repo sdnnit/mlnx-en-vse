@@ -1,0 +1,1 @@
+cmd_/usr/src/mlnx-en-3.0/drivers/net/ethernet/mellanox/mlx4/mlx4_en.ko := cp /usr/src/mlnx-en-3.0/drivers/net/ethernet/mellanox/mlx4/mlx4_en.ko.unsigned /usr/src/mlnx-en-3.0/drivers/net/ethernet/mellanox/mlx4/mlx4_en.ko

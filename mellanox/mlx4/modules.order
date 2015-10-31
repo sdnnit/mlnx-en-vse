@@ -1,0 +1,3 @@
+kernel//usr/src/mlnx-en-3.0/drivers/net/ethernet/mellanox/mlx4/mlx4_core.ko
+kernel//usr/src/mlnx-en-3.0/drivers/net/ethernet/mellanox/mlx4/mlx4_en.ko
+kernel//usr/src/mlnx-en-3.0/drivers/net/ethernet/mellanox/mlx4/vse.ko

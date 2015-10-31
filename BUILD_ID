@@ -1,0 +1,9 @@
+mlnx-en-3.0-1.0.1:
+
+mlnx-en:
+mlnx_ofed/mlnx_rdma.git mlnx_ofed_3_0
+commit b558788c4f3af72d21971b2aff00477eec1164ec
+
+mstflint:
+mlnx_ofed_mstflint/mstflint-4.0.0-1.39.g870e270.tar.gz
+
